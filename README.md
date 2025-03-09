@@ -1,7 +1,6 @@
 # Hands-On-LLMs
 ## A Recent History of Language AI
-- A peek into the history of Language AI. ![Text alternative](Images/Pasted image 20250227174648.png)
-- ![[Pasted image 20250227174648.png]]
+- A peek into the history of Language AI. ![](Images/Pasted%20image%2020250227174648.png)
 - Language AI is capable of many tasks by processing textual input. ![[Pasted image 20250228155103.png]]
 - A vocabulary is created by retaining all unique words across both sentences. ![[Pasted image 20250228155659.png]]
 - A bag-of-words is created by counting individual words. These values are referred to as vector representations. ![[Pasted image 20250228160147.png]]
